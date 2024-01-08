@@ -25,6 +25,6 @@ sequenceDiagram
     browser->>server: GET https://studies.cs.helsinki.fi/exampleapp/main.js
     browser<<-server: the JavaScript file
     browser->>server: GET https://studies.cs.helsinki.fi/exampleapp/data.json
-    browser<<-server: [{"content": "HTML is easy", "date": "2023-1-1"}, ...]
+    %% browser<<-server: [{"content": "HTML is easy", "date": "2023-1-1"}, ...]
 ```
 
