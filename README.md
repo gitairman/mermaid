@@ -38,7 +38,7 @@ sequenceDiagram
     Note right of browser: The browser executes the callback function that renders the notes
 ```
 ## SEQUENCE DIAGRAM: 
-## User creating a new note on page https://studies.cs.helsinki.fi/exampleapp/notes by writing something into the text field and clicking Save button.
+### User creating a new note on page https://studies.cs.helsinki.fi/exampleapp/notes by writing something into the text field and clicking Save button.
 
 ```mermaid
 sequenceDiagram
